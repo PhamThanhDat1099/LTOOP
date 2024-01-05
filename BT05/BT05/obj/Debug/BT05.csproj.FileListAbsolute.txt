@@ -1,0 +1,7 @@
+D:\LapTrinhOOP\BT05\BT05\bin\Debug\BT05.exe.config
+D:\LapTrinhOOP\BT05\BT05\bin\Debug\BT05.exe
+D:\LapTrinhOOP\BT05\BT05\bin\Debug\BT05.pdb
+D:\LapTrinhOOP\BT05\BT05\obj\Debug\BT05.csproj.AssemblyReference.cache
+D:\LapTrinhOOP\BT05\BT05\obj\Debug\BT05.csproj.CoreCompileInputs.cache
+D:\LapTrinhOOP\BT05\BT05\obj\Debug\BT05.exe
+D:\LapTrinhOOP\BT05\BT05\obj\Debug\BT05.pdb
